@@ -1,0 +1,109 @@
+﻿   //data type and a is your variable
+            //Comments
+            //  float numbe1 = 100001.10000111;
+            int a = 2, b = 2;
+            double b1 = 100001.10000111;
+            char s = 'c';
+            string s1 = "asdasd";
+            bool check = true;
+            //float -this is for decimal values
+            //operators
+            //operands
+            //how can sum 2 values
+            //Arithmatic operators
+            // +,-,/,*,% then it will give you reminder
+
+            //expressions
+
+            // expression 1 is true then do this else do this
+            //LHS =RHS
+            //== is called as equality operator
+
+            //if (a==b)//expression if this is trur
+            //{
+            //    Console.WriteLine("a is equal to b");
+            //}
+            //else{
+            //    Console.WriteLine("a is not equal to b");
+            //}
+
+            //1. check weather a number is greater than other or not 
+            //2. Swap 2 numbers\
+            Console.WriteLine("Enter some value");
+            int number1 = Convert.ToInt32(Console.ReadLine());
+            //
+            //+ is for contcatination of 2 strings
+            // "A"+"B"=AB
+            Console.WriteLine("Input givn from your side is :" + number1);
+
+            //logical expressions
+            // && and 
+            // || or 
+            // ! not
+
+            if (2 != 2)
+            {
+                Console.WriteLine("2 is not equal to 4");
+            }
+            else
+            {
+                Console.WriteLine("2 is  equal to 2");
+            }
+
+            if (6 % 2 == 0 && 6 % 3 == 0) //expression 1 and expression 2 both should be true
+            {
+                Console.WriteLine("Number  is  Divisible by 2 and 3");
+
+            }
+            else
+            {
+                Console.WriteLine("Number  is  not Divisible by 2 and 3");
+            }
+            if (6 % 2 == 0 || 6 % 3 == 0) //expression 1 or expression 2 both should be true
+            {
+                Console.WriteLine("Number  is  Divisible by 2 and 3");
+
+            }
+            else
+            {
+                Console.WriteLine("Number  is  not Divisible by 2 and 3");
+            }
+
+
+            if () {
+            }
+            else if ()
+            {
+
+            }
+
+            switch ()
+               
+            {
+
+            }
+            //(age>18)
+            //if the person is having age 18 then he can vote
+            //if the person have age >60 and >18 then person is a senior citizen
+            //if the perosn is having less than 18 years of age he cannot vote
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Console.WriteLine("a=:-"+a+"b=:"+b);

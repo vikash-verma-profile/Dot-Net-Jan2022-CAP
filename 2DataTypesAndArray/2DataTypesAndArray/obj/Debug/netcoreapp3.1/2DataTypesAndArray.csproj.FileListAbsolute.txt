@@ -1,0 +1,14 @@
+C:\Users\svdsk25\Desktop\Training_demos\2DataTypesAndArray\2DataTypesAndArray\bin\Debug\netcoreapp3.1\2DataTypesAndArray.exe
+C:\Users\svdsk25\Desktop\Training_demos\2DataTypesAndArray\2DataTypesAndArray\bin\Debug\netcoreapp3.1\2DataTypesAndArray.deps.json
+C:\Users\svdsk25\Desktop\Training_demos\2DataTypesAndArray\2DataTypesAndArray\bin\Debug\netcoreapp3.1\2DataTypesAndArray.runtimeconfig.json
+C:\Users\svdsk25\Desktop\Training_demos\2DataTypesAndArray\2DataTypesAndArray\bin\Debug\netcoreapp3.1\2DataTypesAndArray.runtimeconfig.dev.json
+C:\Users\svdsk25\Desktop\Training_demos\2DataTypesAndArray\2DataTypesAndArray\bin\Debug\netcoreapp3.1\2DataTypesAndArray.dll
+C:\Users\svdsk25\Desktop\Training_demos\2DataTypesAndArray\2DataTypesAndArray\bin\Debug\netcoreapp3.1\2DataTypesAndArray.pdb
+C:\Users\svdsk25\Desktop\Training_demos\2DataTypesAndArray\2DataTypesAndArray\obj\Debug\netcoreapp3.1\2DataTypesAndArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svdsk25\Desktop\Training_demos\2DataTypesAndArray\2DataTypesAndArray\obj\Debug\netcoreapp3.1\2DataTypesAndArray.AssemblyInfoInputs.cache
+C:\Users\svdsk25\Desktop\Training_demos\2DataTypesAndArray\2DataTypesAndArray\obj\Debug\netcoreapp3.1\2DataTypesAndArray.AssemblyInfo.cs
+C:\Users\svdsk25\Desktop\Training_demos\2DataTypesAndArray\2DataTypesAndArray\obj\Debug\netcoreapp3.1\2DataTypesAndArray.csproj.CoreCompileInputs.cache
+C:\Users\svdsk25\Desktop\Training_demos\2DataTypesAndArray\2DataTypesAndArray\obj\Debug\netcoreapp3.1\2DataTypesAndArray.dll
+C:\Users\svdsk25\Desktop\Training_demos\2DataTypesAndArray\2DataTypesAndArray\obj\Debug\netcoreapp3.1\2DataTypesAndArray.pdb
+C:\Users\svdsk25\Desktop\Training_demos\2DataTypesAndArray\2DataTypesAndArray\obj\Debug\netcoreapp3.1\2DataTypesAndArray.genruntimeconfig.cache
+C:\Users\svdsk25\Desktop\Training_demos\2DataTypesAndArray\2DataTypesAndArray\obj\Debug\netcoreapp3.1\2DataTypesAndArray.csproj.AssemblyReference.cache

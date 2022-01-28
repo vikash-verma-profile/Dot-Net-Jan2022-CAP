@@ -1,0 +1,13 @@
+C:\Users\svdsk25\Desktop\Training_demos\FisrtConsoleApplication\FisrtConsoleApplication\bin\Debug\netcoreapp3.1\FisrtConsoleApplication.exe
+C:\Users\svdsk25\Desktop\Training_demos\FisrtConsoleApplication\FisrtConsoleApplication\bin\Debug\netcoreapp3.1\FisrtConsoleApplication.deps.json
+C:\Users\svdsk25\Desktop\Training_demos\FisrtConsoleApplication\FisrtConsoleApplication\bin\Debug\netcoreapp3.1\FisrtConsoleApplication.runtimeconfig.json
+C:\Users\svdsk25\Desktop\Training_demos\FisrtConsoleApplication\FisrtConsoleApplication\bin\Debug\netcoreapp3.1\FisrtConsoleApplication.runtimeconfig.dev.json
+C:\Users\svdsk25\Desktop\Training_demos\FisrtConsoleApplication\FisrtConsoleApplication\bin\Debug\netcoreapp3.1\FisrtConsoleApplication.dll
+C:\Users\svdsk25\Desktop\Training_demos\FisrtConsoleApplication\FisrtConsoleApplication\bin\Debug\netcoreapp3.1\FisrtConsoleApplication.pdb
+C:\Users\svdsk25\Desktop\Training_demos\FisrtConsoleApplication\FisrtConsoleApplication\obj\Debug\netcoreapp3.1\FisrtConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svdsk25\Desktop\Training_demos\FisrtConsoleApplication\FisrtConsoleApplication\obj\Debug\netcoreapp3.1\FisrtConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\svdsk25\Desktop\Training_demos\FisrtConsoleApplication\FisrtConsoleApplication\obj\Debug\netcoreapp3.1\FisrtConsoleApplication.AssemblyInfo.cs
+C:\Users\svdsk25\Desktop\Training_demos\FisrtConsoleApplication\FisrtConsoleApplication\obj\Debug\netcoreapp3.1\FisrtConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\svdsk25\Desktop\Training_demos\FisrtConsoleApplication\FisrtConsoleApplication\obj\Debug\netcoreapp3.1\FisrtConsoleApplication.dll
+C:\Users\svdsk25\Desktop\Training_demos\FisrtConsoleApplication\FisrtConsoleApplication\obj\Debug\netcoreapp3.1\FisrtConsoleApplication.pdb
+C:\Users\svdsk25\Desktop\Training_demos\FisrtConsoleApplication\FisrtConsoleApplication\obj\Debug\netcoreapp3.1\FisrtConsoleApplication.genruntimeconfig.cache

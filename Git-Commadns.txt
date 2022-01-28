@@ -1,0 +1,1 @@
+pwd-this command is check the current git repo
