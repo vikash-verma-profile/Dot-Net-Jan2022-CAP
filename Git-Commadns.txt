@@ -1,1 +1,18 @@
 pwd-this command is check the current git repo
+git init --this will create a new git folder in your working folder
+git add . --this command is to add files in the git
+git commit -m "first commit" -- creating a commit to push to your code on remote location
+
+=======================================
+the purpose of these commands are to save or configure your github credentials
+
+git config --global user.email "er.vikashverma@yahoo.com"
+git config --global user.name "vikash-verma-profile"
+
+=======================================
+
+git branch -M main --this will create a branch in github with name main
+git remote add origin https://github.com/vikash-verma-profile/Dot-Net-Jan2022-CAP.git  purpose is to link our remote repo with our local code base
+
+git push -u origin main  --- to push our changes to remote branch
+
