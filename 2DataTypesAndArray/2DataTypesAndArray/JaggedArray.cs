@@ -8,7 +8,7 @@ namespace _2DataTypesAndArray
     {
 
         //jagged array is array of arrays
-        public static void Main(string[] args)
+        public static void Main4(string[] args)
         {
             //example of jagged array
             int[][] jaggedarray = new int[3][];
