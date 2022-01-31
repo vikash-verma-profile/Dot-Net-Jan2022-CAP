@@ -11,3 +11,4 @@ C:\Users\svdsk25\Desktop\Training_demos\OopsConcepts\OopsConcepts\bin\Debug\netc
 C:\Users\svdsk25\Desktop\Training_demos\OopsConcepts\OopsConcepts\obj\Debug\netcoreapp3.1\OopsConcepts.dll
 C:\Users\svdsk25\Desktop\Training_demos\OopsConcepts\OopsConcepts\obj\Debug\netcoreapp3.1\OopsConcepts.pdb
 C:\Users\svdsk25\Desktop\Training_demos\OopsConcepts\OopsConcepts\obj\Debug\netcoreapp3.1\OopsConcepts.genruntimeconfig.cache
+C:\Users\svdsk25\Desktop\Training_demos\OopsConcepts\OopsConcepts\obj\Debug\netcoreapp3.1\OopsConcepts.csproj.AssemblyReference.cache
