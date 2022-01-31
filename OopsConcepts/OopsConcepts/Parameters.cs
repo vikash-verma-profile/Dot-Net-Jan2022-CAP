@@ -6,7 +6,7 @@ namespace OopsConcepts
 {
     class Parameters
     {
-        static void Main(string[] args)
+        static void Main5(string[] args)
         {
             Sample(6);
             Sample(6,7);
