@@ -7,7 +7,7 @@ namespace OopsConcepts
     //== and equals
     class ComparisionEquals
     {
-        static void Main(string[] args)
+        static void Main4(string[] args)
         {
             string name = "vikash";
             string Myname = name;
