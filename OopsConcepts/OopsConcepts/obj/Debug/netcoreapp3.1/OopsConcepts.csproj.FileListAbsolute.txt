@@ -1,13 +1,13 @@
+C:\Users\svdsk25\Desktop\Training_demos\OopsConcepts\OopsConcepts\obj\Debug\netcoreapp3.1\OopsConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svdsk25\Desktop\Training_demos\OopsConcepts\OopsConcepts\obj\Debug\netcoreapp3.1\OopsConcepts.AssemblyInfoInputs.cache
+C:\Users\svdsk25\Desktop\Training_demos\OopsConcepts\OopsConcepts\obj\Debug\netcoreapp3.1\OopsConcepts.AssemblyInfo.cs
+C:\Users\svdsk25\Desktop\Training_demos\OopsConcepts\OopsConcepts\obj\Debug\netcoreapp3.1\OopsConcepts.csproj.CoreCompileInputs.cache
 C:\Users\svdsk25\Desktop\Training_demos\OopsConcepts\OopsConcepts\bin\Debug\netcoreapp3.1\OopsConcepts.exe
 C:\Users\svdsk25\Desktop\Training_demos\OopsConcepts\OopsConcepts\bin\Debug\netcoreapp3.1\OopsConcepts.deps.json
 C:\Users\svdsk25\Desktop\Training_demos\OopsConcepts\OopsConcepts\bin\Debug\netcoreapp3.1\OopsConcepts.runtimeconfig.json
 C:\Users\svdsk25\Desktop\Training_demos\OopsConcepts\OopsConcepts\bin\Debug\netcoreapp3.1\OopsConcepts.runtimeconfig.dev.json
 C:\Users\svdsk25\Desktop\Training_demos\OopsConcepts\OopsConcepts\bin\Debug\netcoreapp3.1\OopsConcepts.dll
 C:\Users\svdsk25\Desktop\Training_demos\OopsConcepts\OopsConcepts\bin\Debug\netcoreapp3.1\OopsConcepts.pdb
-C:\Users\svdsk25\Desktop\Training_demos\OopsConcepts\OopsConcepts\obj\Debug\netcoreapp3.1\OopsConcepts.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\svdsk25\Desktop\Training_demos\OopsConcepts\OopsConcepts\obj\Debug\netcoreapp3.1\OopsConcepts.AssemblyInfoInputs.cache
-C:\Users\svdsk25\Desktop\Training_demos\OopsConcepts\OopsConcepts\obj\Debug\netcoreapp3.1\OopsConcepts.AssemblyInfo.cs
-C:\Users\svdsk25\Desktop\Training_demos\OopsConcepts\OopsConcepts\obj\Debug\netcoreapp3.1\OopsConcepts.csproj.CoreCompileInputs.cache
 C:\Users\svdsk25\Desktop\Training_demos\OopsConcepts\OopsConcepts\obj\Debug\netcoreapp3.1\OopsConcepts.dll
 C:\Users\svdsk25\Desktop\Training_demos\OopsConcepts\OopsConcepts\obj\Debug\netcoreapp3.1\OopsConcepts.pdb
 C:\Users\svdsk25\Desktop\Training_demos\OopsConcepts\OopsConcepts\obj\Debug\netcoreapp3.1\OopsConcepts.genruntimeconfig.cache

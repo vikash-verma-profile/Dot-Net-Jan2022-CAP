@@ -8,7 +8,7 @@ namespace OopsConcepts
     //ref vs out
     class OutExample
     {
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             int index;
            // Console.WriteLine("Previous value of index "+index.ToString());
@@ -32,7 +32,7 @@ namespace OopsConcepts
             //id = 1;
             //string returnText = "DummyName" + id.ToString();
             //id += 1;
-           // id = 1;
+            id = 1;
             return id.ToString();
 
         }
