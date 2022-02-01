@@ -6,7 +6,7 @@ namespace ConsoleApp1
 {
     class Loops
     {
-        static void Main(string[] args)
+        static void Main3(string[] args)
         {
             //1.for loop
             //2.while loop
