@@ -6,7 +6,7 @@ namespace ConsoleApp1
 {
     class functionDemo
     {
-        static void Main()
+        static void Main4()
         {
             //sum of two numbers
             sum(10,20);
@@ -22,7 +22,7 @@ namespace ConsoleApp1
             Console.WriteLine(a + b);
         }
 
-        //create a program it will take a number as a input and print the factorial of that 
+        //create a program it will take a number as a input and print the factorial of that number
       
     }
 }
