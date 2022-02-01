@@ -6,7 +6,7 @@ namespace ConsoleApp1
 {
     class arrays
     {
-        static void Main()
+        static void Main10()
         {
             int[] a = { 10, 20 };
 
