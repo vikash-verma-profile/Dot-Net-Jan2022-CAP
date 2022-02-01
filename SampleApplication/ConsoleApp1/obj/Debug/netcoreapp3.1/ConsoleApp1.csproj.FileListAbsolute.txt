@@ -11,4 +11,3 @@ C:\Users\svdsk25\Desktop\Training_demos\SampleApplication\ConsoleApp1\obj\Debug\
 C:\Users\svdsk25\Desktop\Training_demos\SampleApplication\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
 C:\Users\svdsk25\Desktop\Training_demos\SampleApplication\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
 C:\Users\svdsk25\Desktop\Training_demos\SampleApplication\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
-C:\Users\svdsk25\Desktop\Training_demos\SampleApplication\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache

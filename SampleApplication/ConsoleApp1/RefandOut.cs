@@ -6,7 +6,7 @@ namespace ConsoleApp1
 {
     class RefandOut
     {
-        static void Main()
+        static void Main10()
         {
             int b=1,c;
             sumref(ref b);
