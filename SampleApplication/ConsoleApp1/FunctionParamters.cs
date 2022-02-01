@@ -9,7 +9,7 @@ namespace ConsoleApp1
         //2 types
         //optional parameters
         //named parameters
-        static void Main()
+        static void Main6()
         {
             DisplayValue(10, 20);
             DisplayNamedValue(c:10,a:20,b:30);
