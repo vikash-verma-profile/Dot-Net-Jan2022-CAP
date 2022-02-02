@@ -66,7 +66,7 @@ namespace OopsConecpts
     }
     class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
 
             //Sample SamepleObject = new Sample();
