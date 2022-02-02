@@ -1,0 +1,14 @@
+C:\Users\svdsk25\Desktop\Training_demos\OopsConecpts\OopsConecpts\bin\Debug\netcoreapp3.1\OopsConecpts.exe
+C:\Users\svdsk25\Desktop\Training_demos\OopsConecpts\OopsConecpts\bin\Debug\netcoreapp3.1\OopsConecpts.deps.json
+C:\Users\svdsk25\Desktop\Training_demos\OopsConecpts\OopsConecpts\bin\Debug\netcoreapp3.1\OopsConecpts.runtimeconfig.json
+C:\Users\svdsk25\Desktop\Training_demos\OopsConecpts\OopsConecpts\bin\Debug\netcoreapp3.1\OopsConecpts.runtimeconfig.dev.json
+C:\Users\svdsk25\Desktop\Training_demos\OopsConecpts\OopsConecpts\bin\Debug\netcoreapp3.1\OopsConecpts.dll
+C:\Users\svdsk25\Desktop\Training_demos\OopsConecpts\OopsConecpts\bin\Debug\netcoreapp3.1\OopsConecpts.pdb
+C:\Users\svdsk25\Desktop\Training_demos\OopsConecpts\OopsConecpts\obj\Debug\netcoreapp3.1\OopsConecpts.csproj.AssemblyReference.cache
+C:\Users\svdsk25\Desktop\Training_demos\OopsConecpts\OopsConecpts\obj\Debug\netcoreapp3.1\OopsConecpts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svdsk25\Desktop\Training_demos\OopsConecpts\OopsConecpts\obj\Debug\netcoreapp3.1\OopsConecpts.AssemblyInfoInputs.cache
+C:\Users\svdsk25\Desktop\Training_demos\OopsConecpts\OopsConecpts\obj\Debug\netcoreapp3.1\OopsConecpts.AssemblyInfo.cs
+C:\Users\svdsk25\Desktop\Training_demos\OopsConecpts\OopsConecpts\obj\Debug\netcoreapp3.1\OopsConecpts.csproj.CoreCompileInputs.cache
+C:\Users\svdsk25\Desktop\Training_demos\OopsConecpts\OopsConecpts\obj\Debug\netcoreapp3.1\OopsConecpts.dll
+C:\Users\svdsk25\Desktop\Training_demos\OopsConecpts\OopsConecpts\obj\Debug\netcoreapp3.1\OopsConecpts.pdb
+C:\Users\svdsk25\Desktop\Training_demos\OopsConecpts\OopsConecpts\obj\Debug\netcoreapp3.1\OopsConecpts.genruntimeconfig.cache
