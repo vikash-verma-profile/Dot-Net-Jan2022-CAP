@@ -48,7 +48,7 @@ namespace OopsConecpts
             Console.WriteLine(a + b + c);
         }
        
-        static void Main()
+        static void Main8()
         {
             calculator calculator = new calculator(15,25);
             calculator = +calculator;
