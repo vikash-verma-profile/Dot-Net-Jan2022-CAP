@@ -16,7 +16,7 @@ namespace OopsConecpts
             Debug.WriteLine("Descructor is getting called");
             Console.ReadLine();
         }
-        static void Main(string[] args)
+        static void Main5(string[] args)
         {
             CallContructorAndDescructor s = new CallContructorAndDescructor();
             Console.WriteLine();
