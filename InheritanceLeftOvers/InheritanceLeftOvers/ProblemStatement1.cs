@@ -36,7 +36,7 @@ namespace InheritanceLeftOvers
     }
     class ProblemStatement1
     {
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             Person person = new Person();
             person.Greet();
