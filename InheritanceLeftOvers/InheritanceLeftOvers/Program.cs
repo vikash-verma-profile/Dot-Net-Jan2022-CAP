@@ -41,7 +41,7 @@ namespace InheritanceLeftOvers
     }
     class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             Console.WriteLine("Hello World!");
             C cobject = new C(3);
