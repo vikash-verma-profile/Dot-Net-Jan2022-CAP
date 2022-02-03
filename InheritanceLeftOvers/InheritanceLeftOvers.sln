@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceLeftOvers", "InheritanceLeftOvers\InheritanceLeftOvers.csproj", "{B3B64A32-9356-4A24-9E77-0526CFB08176}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3B64A32-9356-4A24-9E77-0526CFB08176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3B64A32-9356-4A24-9E77-0526CFB08176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3B64A32-9356-4A24-9E77-0526CFB08176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3B64A32-9356-4A24-9E77-0526CFB08176}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0B8F6B9-3CBA-423A-9B2D-583902D66263}
+	EndGlobalSection
+EndGlobal
