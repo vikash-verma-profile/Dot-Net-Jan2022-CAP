@@ -7,6 +7,7 @@ namespace InheritanceLeftOvers
 
     class DummyA
     {
+        int a;
         public void show()
         {
             Console.WriteLine("I am coming from A");
@@ -22,7 +23,7 @@ namespace InheritanceLeftOvers
     class Overriding
     {
 
-        static void Main(string[] args)
+        static void Main7(string[] args)
         {
             DummyB B = new DummyB();
             B.show();//B
