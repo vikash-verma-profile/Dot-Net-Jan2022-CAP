@@ -27,7 +27,7 @@ namespace SeleadClass
 
     class Indexersinc
     {
-        public static void Main()
+        public static void Main5()
         {
             IndexerCreation ic = new IndexerCreation();
             ic[0] = "JAVA";
