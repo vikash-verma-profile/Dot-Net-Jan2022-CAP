@@ -22,7 +22,7 @@ namespace SeleadClass
     }
     class ExtensionMethodDemo
     {
-        public static void Main()
+        public static void Main10()
         {
             Class1 ob = new Class1();
             Console.WriteLine(ob.Display());
