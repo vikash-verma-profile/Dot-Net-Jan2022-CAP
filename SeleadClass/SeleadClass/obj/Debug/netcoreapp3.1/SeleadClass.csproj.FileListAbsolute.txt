@@ -11,3 +11,4 @@ C:\Users\svdsk25\Desktop\Training_demos\SeleadClass\SeleadClass\obj\Debug\netcor
 C:\Users\svdsk25\Desktop\Training_demos\SeleadClass\SeleadClass\obj\Debug\netcoreapp3.1\SeleadClass.dll
 C:\Users\svdsk25\Desktop\Training_demos\SeleadClass\SeleadClass\obj\Debug\netcoreapp3.1\SeleadClass.pdb
 C:\Users\svdsk25\Desktop\Training_demos\SeleadClass\SeleadClass\obj\Debug\netcoreapp3.1\SeleadClass.genruntimeconfig.cache
+C:\Users\svdsk25\Desktop\Training_demos\SeleadClass\SeleadClass\obj\Debug\netcoreapp3.1\SeleadClass.csproj.AssemblyReference.cache
