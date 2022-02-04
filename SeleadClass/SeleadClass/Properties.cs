@@ -21,14 +21,16 @@ namespace SeleadClass
                 rn = value;
             }
         }
-        public int Name { get; set; }
+        public string Name { get; set; }
     }
     class Properties
     {
-        public static void Main()
+        public static void Main4()
         {
             Student objStudent = new Student();
+            objStudent.Name = "Value";
             Console.WriteLine(objStudent.RollNumber);
+            Console.WriteLine(objStudent.Name);
         }
 
     }
