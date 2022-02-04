@@ -15,7 +15,11 @@ namespace SeleadClass
             Console.WriteLine(val.langauge);
             Console.WriteLine(val.nested_ob.email);
         }
-        public static void Main()
+        public static void print(int s)
+        {
+
+        }
+        public static void Main7()
         {
 
             var anony_Object = new
@@ -26,6 +30,7 @@ namespace SeleadClass
                 nested_ob = new {email="Sample@yahoo.com"}
             };
             sampleMethod(anony_Object);
+            //print(anony_Object.nested_ob);
         }
     }
 }

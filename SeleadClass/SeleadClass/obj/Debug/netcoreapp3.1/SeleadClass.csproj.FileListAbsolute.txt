@@ -4,7 +4,6 @@ C:\Users\svdsk25\Desktop\Training_demos\SeleadClass\SeleadClass\bin\Debug\netcor
 C:\Users\svdsk25\Desktop\Training_demos\SeleadClass\SeleadClass\bin\Debug\netcoreapp3.1\SeleadClass.runtimeconfig.dev.json
 C:\Users\svdsk25\Desktop\Training_demos\SeleadClass\SeleadClass\bin\Debug\netcoreapp3.1\SeleadClass.dll
 C:\Users\svdsk25\Desktop\Training_demos\SeleadClass\SeleadClass\bin\Debug\netcoreapp3.1\SeleadClass.pdb
-C:\Users\svdsk25\Desktop\Training_demos\SeleadClass\SeleadClass\obj\Debug\netcoreapp3.1\SeleadClass.csproj.AssemblyReference.cache
 C:\Users\svdsk25\Desktop\Training_demos\SeleadClass\SeleadClass\obj\Debug\netcoreapp3.1\SeleadClass.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\svdsk25\Desktop\Training_demos\SeleadClass\SeleadClass\obj\Debug\netcoreapp3.1\SeleadClass.AssemblyInfoInputs.cache
 C:\Users\svdsk25\Desktop\Training_demos\SeleadClass\SeleadClass\obj\Debug\netcoreapp3.1\SeleadClass.AssemblyInfo.cs
