@@ -28,7 +28,7 @@ namespace SeleadClass
     }
     class Structvsenum
     {
-        public static void Main()
+        public static void Main2()
         {
             Person person;
             person.Name = "Sameer";
