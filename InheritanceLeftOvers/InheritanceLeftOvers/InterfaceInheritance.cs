@@ -31,7 +31,7 @@ namespace InheritanceLeftOvers
     class InterfaceInheritance
     {
 
-        public static void Main()
+        public static void Main9()
         {
             Z z = new Z();
             z.method1();
