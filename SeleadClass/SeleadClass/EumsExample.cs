@@ -40,7 +40,7 @@ namespace SeleadClass
    
     class EumsExample
     {
-        public static void Main()
+        public static void Main3()
         {
             Console.WriteLine("Value of Monday is "+WeekDays.Monday);
             Console.WriteLine("Value of Monday is " + (int)WeekDays.Monday);
