@@ -1,0 +1,4 @@
+1.Try-A try block idetified a block of code for which a particular exoections is activated.it is followed by one or more catch block
+2.Catch-A program catches an expecption with an exception handler at the place of program where you want to hanle the problem.
+3.finally :-This block is used to execure a given set of statements,whether an exception is thrown or not .
+4.throw :-In a program throw THROWS an exception when a problem shows up.

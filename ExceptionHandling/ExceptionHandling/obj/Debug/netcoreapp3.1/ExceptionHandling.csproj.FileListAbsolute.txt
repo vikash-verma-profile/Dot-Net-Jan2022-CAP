@@ -1,0 +1,14 @@
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.exe
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.deps.json
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.json
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.dev.json
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.dll
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.pdb
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfo.cs
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.dll
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.pdb
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.genruntimeconfig.cache
