@@ -1,0 +1,14 @@
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.exe
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.deps.json
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.dll
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.AssemblyReference.cache
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.CoreCompileInputs.cache
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.dll
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.genruntimeconfig.cache
