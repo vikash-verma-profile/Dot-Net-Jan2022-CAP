@@ -10,8 +10,14 @@ namespace GrabageCollection
         }
         ~Program()
         {
-
+            Console.WriteLine("Finalize ovveriden");
+            //forcefully stop grabage collector to invoke the finialize method by calling this metho
+            GC.SuppressFinalize(this);
         }
+        //protected override void Finalize()
+        //{
+        //    Console.WriteLine("Finalize ovveriden");
+        //}
         static void Main(string[] args)
         {
             
