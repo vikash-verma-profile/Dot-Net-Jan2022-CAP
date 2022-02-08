@@ -1,0 +1,14 @@
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Collections.Generics\Collections.Generics\bin\Debug\netcoreapp3.1\Collections.Generics.exe
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Collections.Generics\Collections.Generics\bin\Debug\netcoreapp3.1\Collections.Generics.deps.json
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Collections.Generics\Collections.Generics\bin\Debug\netcoreapp3.1\Collections.Generics.runtimeconfig.json
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Collections.Generics\Collections.Generics\bin\Debug\netcoreapp3.1\Collections.Generics.runtimeconfig.dev.json
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Collections.Generics\Collections.Generics\bin\Debug\netcoreapp3.1\Collections.Generics.dll
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Collections.Generics\Collections.Generics\bin\Debug\netcoreapp3.1\Collections.Generics.pdb
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Collections.Generics\Collections.Generics\obj\Debug\netcoreapp3.1\Collections.Generics.csproj.AssemblyReference.cache
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Collections.Generics\Collections.Generics\obj\Debug\netcoreapp3.1\Collections.Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Collections.Generics\Collections.Generics\obj\Debug\netcoreapp3.1\Collections.Generics.AssemblyInfoInputs.cache
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Collections.Generics\Collections.Generics\obj\Debug\netcoreapp3.1\Collections.Generics.AssemblyInfo.cs
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Collections.Generics\Collections.Generics\obj\Debug\netcoreapp3.1\Collections.Generics.csproj.CoreCompileInputs.cache
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Collections.Generics\Collections.Generics\obj\Debug\netcoreapp3.1\Collections.Generics.dll
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Collections.Generics\Collections.Generics\obj\Debug\netcoreapp3.1\Collections.Generics.pdb
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Collections.Generics\Collections.Generics\obj\Debug\netcoreapp3.1\Collections.Generics.genruntimeconfig.cache
