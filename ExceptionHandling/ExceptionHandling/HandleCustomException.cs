@@ -45,6 +45,10 @@ namespace ExceptionHandling
                 Console.WriteLine(e.InnerException);
                 Console.WriteLine(e.StackTrace);
             }
+
+            finally{
+                Console.WriteLine("");
+            }
         }
     }
 }
