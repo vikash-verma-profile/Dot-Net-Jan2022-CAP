@@ -4,7 +4,6 @@ C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\GrabageCollection\GrabageCollect
 C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\GrabageCollection\GrabageCollection\bin\Debug\netcoreapp3.1\GrabageCollection.runtimeconfig.dev.json
 C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\GrabageCollection\GrabageCollection\bin\Debug\netcoreapp3.1\GrabageCollection.dll
 C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\GrabageCollection\GrabageCollection\bin\Debug\netcoreapp3.1\GrabageCollection.pdb
-C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\GrabageCollection\GrabageCollection\obj\Debug\netcoreapp3.1\GrabageCollection.csproj.AssemblyReference.cache
 C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\GrabageCollection\GrabageCollection\obj\Debug\netcoreapp3.1\GrabageCollection.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\GrabageCollection\GrabageCollection\obj\Debug\netcoreapp3.1\GrabageCollection.AssemblyInfoInputs.cache
 C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\GrabageCollection\GrabageCollection\obj\Debug\netcoreapp3.1\GrabageCollection.AssemblyInfo.cs

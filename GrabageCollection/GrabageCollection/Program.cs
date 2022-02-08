@@ -4,10 +4,19 @@ namespace GrabageCollection
 {
     internal class Program
     {
+        Program()
+        {
+            
+        }
+        ~Program()
+        {
+
+        }
         static void Main(string[] args)
         {
-            /*
+            
             Console.WriteLine("the generation are " + GC.GetTotalMemory(false));
+            /*
             Program p=new Program();
             Console.WriteLine("the generation are " +GC.MaxGeneration);
             Console.WriteLine("the generation are " + GC.GetGeneration(p));
@@ -16,9 +25,12 @@ namespace GrabageCollection
             //for collection of grabage 
             //gc.collect
 
-            GC.Collect();
-            Console.WriteLine("GC in generation 0 {0}",GC.CollectionCount(0));
-
+            //GC.Collect();
+            //Console.WriteLine("GC in generation 0 {0}",GC.CollectionCount(0));
+            finally
+            {
+                
+            }
 
         }
     }
