@@ -7,7 +7,7 @@ namespace Collections.Generics
     //Dictionary<key,value>
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             Console.WriteLine("================Dictionary============");
 
