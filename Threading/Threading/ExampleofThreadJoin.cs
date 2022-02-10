@@ -8,7 +8,7 @@ namespace Threading
 {
     internal class ExampleofThreadJoin
     {
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             //Thread thread = new Thread(MethodJoin);
             //Console.WriteLine(thread.ThreadState);

@@ -92,3 +92,9 @@ Thread
 --abortrequested
 --aborted
 
+type of thread:-
+
+Foreground Thread-these threads are those whose lifespan does not depends on the main thread
+Background Thread-these threads are those which depend on main method
+
+
