@@ -1,0 +1,94 @@
+Collections==> is a class that is useful to manage a group of objects in a flexible manner to perform various operations like
+-insert
+-update
+-delete
+-get etc
+
+collection types:-
+
+1.Generic==>System.collection.Generic
+2. Non-Generic==>system.collection
+3.Concurrent==>system.collections.concurrent
+
+
+NON-GENERIC COllection-
+
+-ArrayList==>is useful to represent an array of objects whose size is dynamically increased as required
+-Queue==>it is useful to represent a FIFO(first IN ,First Out)collection of objects
+-Stack==>it is useful to represent a LIFO(Last In ,First OUT) collection of objects
+-HashTable==>it is useful to represent a collection of key/value pairs orgainized based on the key's hash code
+
+GENERIC Collection-
+
+-LIST==>list of obects that can be accessed by an index
+-Dicitionary==>it will be useful to represent a collection of key/value pairs organised based on the key
+-Queue==>it is useful to represent a FIFO(first IN ,First Out)collection of objects
+-stack==>it is useful to represent a LIFO(Last In ,First OUT) collection of objects
+-SortedList==>it is useful to repesent a collection of key/value sorted by key
+
+
+concurrent Collections
+
+these collections are useful for accessing collection items from multple threads 
+
+
+-BlockingCollection-is useful to provide blocking anc bounding capabilities for thread-safe collections
+-ConcurrentBag
+-ConcurrentDictionary
+-ConcurrentQueue
+-ConcurentStack
+-Partitioner
+-orderablePartitioner
+
+
+
+C# multithreading
+=>its a process in which multiple threads work simultaneously
+=> we need to use system.threading namspace
+
+
+system.threading
+--thread
+--Mutex
+--Timer
+--Monitor
+--Semaphore
+--TheadLocal
+--ThreadPool
+--Volatile
+
+Thread Properties
+
+--CurrentThread--return the instance of currently running thread
+--IsAlive--check whether the current thread is alive or not.It is used to find the execution status of the thread.
+--IsBackground--is used to get or set value whether current thread is in background or not
+--ManagedThreadId-to get unique id for the current managed thread
+--Name--to get and set the name of the current thread
+--Priority-get and set the priority of the current thread
+--Threadstate--this will retun a value to represent the thread state
+
+Thread Methods
+
+--Abort()--to terminate the thread.
+--Interrupt()--to interrut a thread which is in waitSleepJoin state
+--Join()--block all the calling threads until this thread terminates
+--ResetAbort()-cancel the abort request
+--Sleep()--to suspend the current thread for miliseconds
+--Resume()--to resume the susoended thread
+--start()--start the therad and make the  state as runnable
+--suspend()--suspends the current thread if it is not susspended
+--yield()--to yield the execution if current thread to another thread
+
+Thread
+
+--running
+--stoprequested
+--suspendrequested
+--background
+--unstarted
+--stopped
+--waitsleepjoin
+--suspended
+--abortrequested
+--aborted
+

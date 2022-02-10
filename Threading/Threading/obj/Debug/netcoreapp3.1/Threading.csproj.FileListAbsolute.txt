@@ -1,0 +1,14 @@
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Threading\Threading\bin\Debug\netcoreapp3.1\Threading.exe
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Threading\Threading\bin\Debug\netcoreapp3.1\Threading.deps.json
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Threading\Threading\bin\Debug\netcoreapp3.1\Threading.runtimeconfig.json
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Threading\Threading\bin\Debug\netcoreapp3.1\Threading.runtimeconfig.dev.json
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Threading\Threading\bin\Debug\netcoreapp3.1\Threading.dll
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Threading\Threading\bin\Debug\netcoreapp3.1\Threading.pdb
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Threading\Threading\obj\Debug\netcoreapp3.1\Threading.csproj.AssemblyReference.cache
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Threading\Threading\obj\Debug\netcoreapp3.1\Threading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Threading\Threading\obj\Debug\netcoreapp3.1\Threading.AssemblyInfoInputs.cache
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Threading\Threading\obj\Debug\netcoreapp3.1\Threading.AssemblyInfo.cs
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Threading\Threading\obj\Debug\netcoreapp3.1\Threading.csproj.CoreCompileInputs.cache
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Threading\Threading\obj\Debug\netcoreapp3.1\Threading.dll
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Threading\Threading\obj\Debug\netcoreapp3.1\Threading.pdb
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\Threading\Threading\obj\Debug\netcoreapp3.1\Threading.genruntimeconfig.cache
