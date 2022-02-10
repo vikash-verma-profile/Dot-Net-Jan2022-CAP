@@ -112,6 +112,46 @@ lock(x)
 	//code
 }
 
+c# Task
+
+System.Threading.Tasks
+
+--Task is useful to perform the operation asynchronously on thread pool threads
+--DOt net framework 4
+
+
+Tasks vs Thread
+
+1.Thread is used to create and manipulate a thread in windows  ||  Task represents some asynchronous operations and is part 								    of Task Parallel Library
+
+2.Thread have no direct machanism to return the result         || Task can return a result
+3.Thread doesnot support cancellation    		       || Task supports cancellation through use of cancellation                                                                   tokens
+4.Thread can only have one task running at a time              || Task can have multiple processes happening at the same 								          time
+
+Task Properties
+
+currentID --it will provide the iD of the currently executing task
+Status --it wil return the task status
+Iscancelled--whether the task is canceled or not
+IsCompleted--whether the task is Completed or not
+IsFaulted--whether the task is stopped due to an unhandled exception or not
+Factory---provide acces to factory methods for creating and configuring tasks
+Exception--return the exception that caused the task to end
+
+Task Methods:-
+
+ConfigureAwait()  --configure to use the await keyword
+ContinueWith()--create a continuation of task
+Start()-start the task
+Run()--it will queue the specified work to run on the thread pool
+RunSynchronously()---Task to run Synchoronously
+Delay()--number of milisecond as task will be delay
+Wait()--wait for the task to complete execution
+WaitAll()
+WaitAny()
+Dispose()--It release the resourcses used by the current task instance
+
+
 
 
 

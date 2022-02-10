@@ -21,7 +21,7 @@ namespace Threading
                 }
             }
         }
-        static void Main(string[] args)
+        static void Main7(string[] args)
         {
             Thread t1 = new Thread(new ThreadStart(PrintInformation));
             Thread t2 = new Thread(new ThreadStart(PrintInformation));
