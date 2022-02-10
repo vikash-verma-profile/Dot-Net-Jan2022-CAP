@@ -103,6 +103,15 @@ MultiThreading:-
 means to execute multiple threads simultaneously to perform mutiple tasks at a time.
 
 
+LOCK
+--lock is keyword which is useful to acquire the mutual-exclusion of lock for the specfied block of code
+--is used when we work in multithreaded applications
+
+lock(x)
+{
+	//code
+}
+
 
 
 

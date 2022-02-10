@@ -7,7 +7,7 @@ namespace Threading
 {
     internal class Multitheading
     {
-        static void Main(string[] args)
+        static void Main6(string[] args)
         {
             Thread t1=new Thread(new ThreadStart(PrintInformation));
             Thread t2 = new Thread(new ThreadStart(PrintInformation2));
