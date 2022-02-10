@@ -98,3 +98,13 @@ Foreground Thread-these threads are those whose lifespan does not depends on the
 Background Thread-these threads are those which depend on main method
 
 
+MultiThreading:-
+
+means to execute multiple threads simultaneously to perform mutiple tasks at a time.
+
+
+
+
+
+
+

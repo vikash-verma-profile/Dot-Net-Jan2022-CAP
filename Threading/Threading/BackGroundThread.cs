@@ -7,7 +7,7 @@ namespace Threading
 {
     internal class BackGroundThread
     {
-        static void Main(string[] args)
+        static void Main5(string[] args)
         {
             Thread oThread = new Thread(WorkThread);
             oThread.Start();
