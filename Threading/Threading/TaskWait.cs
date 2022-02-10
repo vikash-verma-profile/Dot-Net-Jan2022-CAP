@@ -8,7 +8,7 @@ namespace Threading
 {
     internal class TaskWait
     {
-        public static void Main()
+        public static void Main9()
         {
             Task t1 = Task.Run(() => { PrintInformation(); });
             t1.Wait();
