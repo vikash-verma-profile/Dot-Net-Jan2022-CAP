@@ -17,7 +17,7 @@ namespace TPLSample
 
         public delegate void SampleDelegate(out int Integer);
         //6
-        static void Main(string[] args)
+        static void Main6(string[] args)
         {
             SampleDelegate del = new SampleDelegate(MethodOne);
             del += MethodTwo;
