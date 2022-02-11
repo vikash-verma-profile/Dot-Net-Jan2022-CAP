@@ -1,0 +1,21 @@
+Delegates
+
+rule of using delegates
+
+1.delegate is a user-defined type .before invoking/calling a method using delegate we must have to define a delagate
+2.The signature of delegate must match with the signature of the method.
+otherwise we will get a compiler time error
+because of the above we call it as type-sfe function pointer
+
+3.delegate is similar to class. 
+we create an instance of the delegate when we do so we pass function as a parameter to the delegate constructor
+
+types of delegates
+
+1.Single Cast Delegate
+2.MultiCast Delegate
+
+Multicast Delegate
+
+this delegate holds the refernces of more than one function.
+
