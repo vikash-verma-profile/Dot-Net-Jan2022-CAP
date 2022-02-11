@@ -8,7 +8,7 @@ namespace TPLSample
 {
     internal class ParallelForLoopBreak
     {
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
 
             var BreakSource=Enumerable.Range(0, 1000).ToList();
