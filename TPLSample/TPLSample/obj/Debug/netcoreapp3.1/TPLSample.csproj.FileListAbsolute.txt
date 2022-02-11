@@ -1,0 +1,14 @@
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\TPLSample\TPLSample\bin\Debug\netcoreapp3.1\TPLSample.exe
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\TPLSample\TPLSample\bin\Debug\netcoreapp3.1\TPLSample.deps.json
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\TPLSample\TPLSample\bin\Debug\netcoreapp3.1\TPLSample.runtimeconfig.json
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\TPLSample\TPLSample\bin\Debug\netcoreapp3.1\TPLSample.runtimeconfig.dev.json
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\TPLSample\TPLSample\bin\Debug\netcoreapp3.1\TPLSample.dll
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\TPLSample\TPLSample\bin\Debug\netcoreapp3.1\TPLSample.pdb
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\TPLSample\TPLSample\obj\Debug\netcoreapp3.1\TPLSample.csproj.AssemblyReference.cache
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\TPLSample\TPLSample\obj\Debug\netcoreapp3.1\TPLSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\TPLSample\TPLSample\obj\Debug\netcoreapp3.1\TPLSample.AssemblyInfoInputs.cache
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\TPLSample\TPLSample\obj\Debug\netcoreapp3.1\TPLSample.AssemblyInfo.cs
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\TPLSample\TPLSample\obj\Debug\netcoreapp3.1\TPLSample.csproj.CoreCompileInputs.cache
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\TPLSample\TPLSample\obj\Debug\netcoreapp3.1\TPLSample.dll
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\TPLSample\TPLSample\obj\Debug\netcoreapp3.1\TPLSample.pdb
+C:\Users\om\Desktop\Dot-net\Dot-Net-Jan2022-CAP\TPLSample\TPLSample\obj\Debug\netcoreapp3.1\TPLSample.genruntimeconfig.cache

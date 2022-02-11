@@ -1,0 +1,9 @@
+types of Parallelism
+
+1.Data==>linq plinq
+2.Task 
+
+for vs parallel for
+
+1.normal for is running into only one thread and parallel for is executed by using multiple threads.
+2.Normal for will execute in sequential order and parallel for will not run in sequential order
