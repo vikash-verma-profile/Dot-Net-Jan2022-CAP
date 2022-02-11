@@ -19,7 +19,7 @@ namespace TPLSample
             Console.WriteLine("Parameter is :" + (2*(width + height)));
         }
         //5
-        static void Main(string[] args)
+        static void Main5(string[] args)
         {
             MultiCastDelegate rect = new MultiCastDelegate();
             RectangeDelete rectange = new RectangeDelete(rect.GetArea);

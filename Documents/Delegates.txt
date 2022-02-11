@@ -19,3 +19,8 @@ Multicast Delegate
 
 this delegate holds the refernces of more than one function.
 
+delegate.invoke vs delegate()
+
+--delegate() internally calls invoke only delegate is a compiler helper.
+--invoke is a thread-safe
+
