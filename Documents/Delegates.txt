@@ -26,5 +26,38 @@ delegate.invoke vs delegate()
 
 Anonymous Methods
 
+what is lambda expression
+
+generic delegates in c#
+
+--this was come in dot net 3.5
+
+
+
+types of generic delegates
+-Func
+--coming from system namespace 
+--this delegate will take one or more input and return one out parameter
+--return type is mendatory but input parameter is not
+
+-action
+
+--coming from system namespace 
+--this delegate will take one or more input and return nothing
+
+
+-Predicate
+
+--coming from system namespace 
+--this delegate will take one  input and always return a boolean value
+
+
+ADDNUmber1(no1,no2,no3)
+ADDNUmber2(no1,no2,no3)
+
+
+
+
+
 
 

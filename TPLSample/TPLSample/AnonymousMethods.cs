@@ -14,8 +14,9 @@ namespace TPLSample
         //    return "Hello " + name;
         //}
         //8
-        static void Main(string[] args)
+        static void Main8(string[] args)
         {
+
             String Message = "HEY !";
             //GreetDelegate gd = new GreetDelegate(AnonymousMethods.Greet);
             GreetDelegate gd = delegate (string name)
