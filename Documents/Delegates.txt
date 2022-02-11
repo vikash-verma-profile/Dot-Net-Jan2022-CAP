@@ -24,3 +24,7 @@ delegate.invoke vs delegate()
 --delegate() internally calls invoke only delegate is a compiler helper.
 --invoke is a thread-safe
 
+Anonymous Methods
+
+
+

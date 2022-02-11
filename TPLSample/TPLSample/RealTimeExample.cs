@@ -27,7 +27,7 @@ namespace TPLSample
     internal class RealTimeExample
     {
         //7
-        static void Main(string[] args)
+        static void Main7(string[] args)
         {
             Employee employee1 = new Employee() { ID=101,Name="Vikash 1",Gender="Male",Experience=10,Salary=10000};
             Employee employee2 = new Employee() { ID = 102, Name = "Vikash 2", Gender = "Male", Experience = 10, Salary = 70000 };
