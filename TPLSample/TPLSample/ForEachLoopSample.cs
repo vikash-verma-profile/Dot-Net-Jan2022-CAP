@@ -8,7 +8,7 @@ namespace TPLSample
 {
     internal class ForEachLoopSample
     {
-        static void Main(string[] args)
+        static void Main3(string[] args)
         {
             DateTime dateTime = DateTime.Now;
             Console.WriteLine("Foreach loop");
