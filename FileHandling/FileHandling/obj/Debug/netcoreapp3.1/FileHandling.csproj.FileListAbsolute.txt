@@ -1,0 +1,14 @@
+C:\Users\svdsk25\Desktop\Training_demos\FileHandling\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.exe
+C:\Users\svdsk25\Desktop\Training_demos\FileHandling\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.deps.json
+C:\Users\svdsk25\Desktop\Training_demos\FileHandling\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.runtimeconfig.json
+C:\Users\svdsk25\Desktop\Training_demos\FileHandling\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.runtimeconfig.dev.json
+C:\Users\svdsk25\Desktop\Training_demos\FileHandling\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.dll
+C:\Users\svdsk25\Desktop\Training_demos\FileHandling\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.pdb
+C:\Users\svdsk25\Desktop\Training_demos\FileHandling\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.csproj.AssemblyReference.cache
+C:\Users\svdsk25\Desktop\Training_demos\FileHandling\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svdsk25\Desktop\Training_demos\FileHandling\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.AssemblyInfoInputs.cache
+C:\Users\svdsk25\Desktop\Training_demos\FileHandling\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.AssemblyInfo.cs
+C:\Users\svdsk25\Desktop\Training_demos\FileHandling\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\svdsk25\Desktop\Training_demos\FileHandling\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.dll
+C:\Users\svdsk25\Desktop\Training_demos\FileHandling\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.pdb
+C:\Users\svdsk25\Desktop\Training_demos\FileHandling\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.genruntimeconfig.cache
