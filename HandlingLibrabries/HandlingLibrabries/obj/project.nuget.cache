@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PRda4VyM5uu/YHXJv4JmPdkmkWrjc6AbPi8//+jntTvv+dRJ9c7sCuWOJuUrZ4T6LXIt4whjOgZi0J8T42lXtw==",
+  "dgSpecHash": "1Bm3ZZ5kRkRKT7BpjriUXCm1x1/JOyTPIna8o+omAhQeXaCkkgmX7/lGATLrAhTOllbeF1Pv4Xhys7i7Whplkw==",
   "success": true,
   "projectFilePath": "C:\\Users\\svdsk25\\Desktop\\Training_demos\\HandlingLibrabries\\HandlingLibrabries\\HandlingLibrabries.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\svdsk25\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

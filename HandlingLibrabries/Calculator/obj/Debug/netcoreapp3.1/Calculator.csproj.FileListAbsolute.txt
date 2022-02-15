@@ -1,7 +1,6 @@
 C:\Users\svdsk25\Desktop\Training_demos\HandlingLibrabries\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
 C:\Users\svdsk25\Desktop\Training_demos\HandlingLibrabries\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
 C:\Users\svdsk25\Desktop\Training_demos\HandlingLibrabries\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
-C:\Users\svdsk25\Desktop\Training_demos\HandlingLibrabries\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.AssemblyReference.cache
 C:\Users\svdsk25\Desktop\Training_demos\HandlingLibrabries\Calculator\obj\Debug\netcoreapp3.1\Calculator.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\svdsk25\Desktop\Training_demos\HandlingLibrabries\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
 C:\Users\svdsk25\Desktop\Training_demos\HandlingLibrabries\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
