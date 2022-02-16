@@ -25,7 +25,7 @@ insert into Names values(4,'Vikash4')
 
 update Names set Name='Vikash 1' 
 --clauses where
-update Names set Name='Vikash 2'  where ID=2;
+update Names set Name='Vikash 2'  where ID=1;
 --delete data from tables
 delete Names where  ID=3;
 --In clause
@@ -34,3 +34,12 @@ delete Names where  ID in (2,4)
 drop table Names;
 --truncate --remove all data from table
 truncate table Names;
+
+Create table Employee (employeeid int ,employeeName varchar(200),Gender varchar(200),Salary int);
+
+select * from Employee 
+
+insert into Employee values(101,'Vikash4','Male',10000)
+
+Create table Department (DepartmentID int ,DepartmentName varchar(200));
+select * from Department 
