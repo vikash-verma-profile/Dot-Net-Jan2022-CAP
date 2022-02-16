@@ -42,4 +42,9 @@ select * from Employee
 insert into Employee values(101,'Vikash4','Male',10000)
 
 Create table Department (DepartmentID int ,DepartmentName varchar(200));
+
+alter table Department add  EmployeeID int
 select * from Department 
+insert into Department values(1,'IT',101)
+
+select E.employeeName,D.DepartmentName from Department D join Employee E on D.EmployeeID=E.employeeid
