@@ -12,4 +12,8 @@ insert into Department(DepartmentID,DepartmentName) values(2,'Sales')
 
 select employeeid from employeedepartmentmapping where departmentId=1
 
+select dbo.EmployeeName(EmployeeID) as EmployeeName from Department
+
+select dbo.EmployeeName(1)
+
 select * from [EmployeeDetail] where id in (select employeeid from employeedepartmentmapping where departmentId=1)
