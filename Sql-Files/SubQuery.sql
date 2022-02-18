@@ -16,4 +16,5 @@ select dbo.EmployeeName(EmployeeID) as EmployeeName from Department
 
 select dbo.EmployeeName(1)
 
+--you cannot update anything into function
 select * from [EmployeeDetail] where id in (select employeeid from employeedepartmentmapping where departmentId=1)
