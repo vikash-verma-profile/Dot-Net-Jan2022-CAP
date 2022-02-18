@@ -1,0 +1,98 @@
+Sql -structure query language
+
+RDMS-Relational Database management system
+
+DDL
+-create
+-alter
+-drop
+
+
+DML
+-select
+-insert
+-update
+-delete
+
+
+DCL
+-grant
+-revoke
+
+
+table
+--data in rdbms stored in database objects which are called as tables
+
+field
+--every table is brokeup into smaller entities called fields
+
+
+what is NULL
+
+null is blank value in table
+
+sql costraints
+
+These are the rules that we enforced on data columns
+
+-Not Null
+-default
+-unique
+-primary
+-forign key
+-index
+
+Data Integrity
+
+-entity integrity-no duplicate rows in table
+-domain integrity-enforces valid entries for a given column 
+-referential integrity-rows canot be deleted
+-user-defined integrity-to apply business rules 
+
+
+Data Normalization-
+
+
+1.First Normal form
+2.Second Normal form
+3.Third Normal form
+
+Data types
+
+-DATE
+-DateTime2
+DATETIMEOFFSET
+-INT
+-Decimal
+-Nvarchar
+-varchar
+time
+char
+bit
+
+
+Union
+Unionall
+Like
+IN
+NOt
+Exits
+
+Clauses
+Distinct
+group by
+Order by
+where
+having
+select
+
+joins
+
+--inner join
+--left join
+--right join
+--outer join
+--left outer join
+--right outer join
+
+
