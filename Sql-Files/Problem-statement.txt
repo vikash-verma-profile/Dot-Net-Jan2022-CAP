@@ -1,0 +1,31 @@
+Employee Table 
+--ID will be primary key identity 1,1
+--EMployeeID alphanumeric colum sample CAP1234
+--Employee First Name
+--Employee Last Name
+--Employee Gender
+--IsDeleted int default value will be 0
+--EmployeeAge
+--EmployeeDataofBirth
+--EmployeeEmail
+
+
+
+Department Table
+
+--ID will be primary key identity 1,1
+--Department
+--IsDeleted int default value will be 0
+
+
+EmployeeDepartmentMapping
+--ID will be primary key identity 1,1
+--EmployeeID FK to employee Table field ID
+--DepartmentID Fk to department table field ID
+
+
+Create a procedure to get employee full name ,gender ,employeemail,department 
+create a function to get employee full name
+
+create a trigger to log the history in employeeHistory table
+
