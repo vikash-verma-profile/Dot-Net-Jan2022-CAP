@@ -1,0 +1,19 @@
+1.Create a table for userdetails
+--User
+	--ID--PK-Identity
+	--UserName
+	--Password
+	--UserID-FK-User ID
+	--IsDeleted default value 0
+--UserDetails
+	--ID--PK-Identity
+	--FirstName
+	--LastName
+	--Gender
+	--DOB
+	--email id
+	--IsDeleted default value 0
+--Create procedure to validate UserLogin --2 input variables --username and password
+--Create a procedure which accepets firstname,lastname,gender,dob,email and save in userdetail table and create user login for the same.
+	
+
