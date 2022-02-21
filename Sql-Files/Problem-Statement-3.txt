@@ -1,0 +1,38 @@
+1.Create a table for userdetails
+--User
+	--ID--PK-Identity
+	--UserName
+	--Password
+	--UserID-FK-User ID
+	--IsDeleted default value 0
+--UserDetails
+	--ID--PK-Identity
+	--FirstName
+	--LastName
+	--Gender
+	--DOB
+	--email id
+	--IsDeleted default value 0
+
+--tblrole
+	--Id PK identity(1,1)
+	--RoleName
+	--IsDeleted default value 0
+
+tblmenumaster
+	--id PK identity(1,1)
+	--pagename
+	
+tblroleusermapping
+	--id PK identity(1,1)
+	--roleid FK to ID of tblrole
+	--userid FK to the User
+	--IsDeleted default value 0
+
+tblmenurolemapping
+	--id PK identity(1,1)
+	--menuid FK to ID of tblmenumaster
+	--roleid FK to ID of tblrole
+	--IsDeleted default value 0
+
+create a procedure which we take user as input and show on which pages it have access
