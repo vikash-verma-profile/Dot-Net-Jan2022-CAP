@@ -9,7 +9,7 @@ namespace LinqDemos
     //oftype
     class Class3
     {
-        static void Main()
+        static void Main3()
         {
             IList sampleList = new ArrayList();
             sampleList.Add(0);
