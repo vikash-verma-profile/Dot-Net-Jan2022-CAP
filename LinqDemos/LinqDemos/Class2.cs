@@ -33,7 +33,7 @@ namespace LinqDemos
     }
     class Class2
     {
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             Student[] studentsArray = {
                 new Student { StudentId = 1, Age = 18, StudentName = "John" },

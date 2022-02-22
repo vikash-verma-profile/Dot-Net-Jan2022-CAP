@@ -1,0 +1,17 @@
+Linq operators
+
+--where
+--OfType
+--OrderBy
+--ThenBy
+--GroupBy
+--Join
+--GroupJoin
+--Select
+--All,Any
+--Contains
+--Aggregate 
+	--Count
+	--Max
+	--Sum
+	--Concat
