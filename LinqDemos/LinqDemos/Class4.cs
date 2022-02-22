@@ -12,7 +12,7 @@ namespace LinqDemos
         //orderby descending
         //thenby
         //thenby descending
-        static void Main()
+        static void Main4()
         {
 
             IList<Student> sampleList = new List<Student>() { 
