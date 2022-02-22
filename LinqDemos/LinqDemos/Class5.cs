@@ -10,7 +10,7 @@ namespace LinqDemos
         //groupby
         //tolookup
 
-        static void Main()
+        static void Main5()
         {
             IList<Student> sampleList = new List<Student>() {
                 new Student { StudentId = 1, Age = 18, StudentName = "John" },
