@@ -22,7 +22,7 @@ namespace LinqDemos
     }
     class Class16
     {
-        static void Main()
+        static void Main6()
         {
             IList<string> strList1 = new List<string>()
             {
