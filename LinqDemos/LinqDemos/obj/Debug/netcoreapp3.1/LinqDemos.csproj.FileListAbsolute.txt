@@ -1,0 +1,14 @@
+C:\Users\svdsk25\Desktop\Training_demos\LinqDemos\LinqDemos\bin\Debug\netcoreapp3.1\LinqDemos.exe
+C:\Users\svdsk25\Desktop\Training_demos\LinqDemos\LinqDemos\bin\Debug\netcoreapp3.1\LinqDemos.deps.json
+C:\Users\svdsk25\Desktop\Training_demos\LinqDemos\LinqDemos\bin\Debug\netcoreapp3.1\LinqDemos.runtimeconfig.json
+C:\Users\svdsk25\Desktop\Training_demos\LinqDemos\LinqDemos\bin\Debug\netcoreapp3.1\LinqDemos.runtimeconfig.dev.json
+C:\Users\svdsk25\Desktop\Training_demos\LinqDemos\LinqDemos\bin\Debug\netcoreapp3.1\LinqDemos.dll
+C:\Users\svdsk25\Desktop\Training_demos\LinqDemos\LinqDemos\bin\Debug\netcoreapp3.1\LinqDemos.pdb
+C:\Users\svdsk25\Desktop\Training_demos\LinqDemos\LinqDemos\obj\Debug\netcoreapp3.1\LinqDemos.csproj.AssemblyReference.cache
+C:\Users\svdsk25\Desktop\Training_demos\LinqDemos\LinqDemos\obj\Debug\netcoreapp3.1\LinqDemos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svdsk25\Desktop\Training_demos\LinqDemos\LinqDemos\obj\Debug\netcoreapp3.1\LinqDemos.AssemblyInfoInputs.cache
+C:\Users\svdsk25\Desktop\Training_demos\LinqDemos\LinqDemos\obj\Debug\netcoreapp3.1\LinqDemos.AssemblyInfo.cs
+C:\Users\svdsk25\Desktop\Training_demos\LinqDemos\LinqDemos\obj\Debug\netcoreapp3.1\LinqDemos.csproj.CoreCompileInputs.cache
+C:\Users\svdsk25\Desktop\Training_demos\LinqDemos\LinqDemos\obj\Debug\netcoreapp3.1\LinqDemos.dll
+C:\Users\svdsk25\Desktop\Training_demos\LinqDemos\LinqDemos\obj\Debug\netcoreapp3.1\LinqDemos.pdb
+C:\Users\svdsk25\Desktop\Training_demos\LinqDemos\LinqDemos\obj\Debug\netcoreapp3.1\LinqDemos.genruntimeconfig.cache
