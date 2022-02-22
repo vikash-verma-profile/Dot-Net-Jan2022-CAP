@@ -16,7 +16,7 @@ namespace LinqDemos
     //sum
     class Class8
     {
-        static void Main()
+        static void Main8()
         {
             IList<string> strList = new List<string>() { "one", "two", "three", "four" };
             var commasepartedstring = strList.Aggregate((s1, s2) => s1 + " | " + s2);
