@@ -7,7 +7,7 @@ namespace EFCoreDemo.Models
 {
     public partial class EmployeeDetail
     {
-        public int? Id { get; set; }
+        public int Id { get; set; }
         public string Employeename { get; set; }
         public string Gender { get; set; }
         public int? Salary { get; set; }

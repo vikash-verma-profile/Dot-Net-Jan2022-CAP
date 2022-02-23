@@ -72,9 +72,9 @@ namespace EFCoreDemo.Models
 
             modelBuilder.Entity<EmployeeDetail>(entity =>
             {
-                entity.HasNoKey();
-
                 entity.ToTable("EmployeeDetail");
+
+                entity.Property(e => e.Id).HasColumnName("id");
 
                 entity.Property(e => e.Employeename)
                     .HasMaxLength(200)
@@ -85,8 +85,6 @@ namespace EFCoreDemo.Models
                     .HasMaxLength(30)
                     .IsUnicode(false)
                     .HasColumnName("gender");
-
-                entity.Property(e => e.Id).HasColumnName("id");
             });
 
             modelBuilder.Entity<Employeedepartmentmapping>(entity =>
