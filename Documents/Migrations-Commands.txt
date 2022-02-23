@@ -1,0 +1,5 @@
+Scaffold-DbContext "Server=.\SQLEXPRESS;Database=Sample;Trusted_Connection=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Force
+
+
+add-migration CreateSchoolDb
+update-database
