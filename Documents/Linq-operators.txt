@@ -15,3 +15,8 @@ Linq operators
 	--Max
 	--Sum
 	--Concat
+
+employee
+department
+
+put a join on the basis of emmployee id
