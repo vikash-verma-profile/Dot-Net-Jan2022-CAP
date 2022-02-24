@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "JD3zRNV5e+W42UzTdltkqKhfkDudLsF125NycD8IFoOsAUURyccH55usuMABhhviv+WZINqIhjUt/oheG/Hjuw==",
+  "dgSpecHash": "H2uGin/sVXgeVNBL62maIz84fQhqH8GvmT07mFCFJSyeNakttntZ5z0Dmj7oBNmfpj62CFLLwzPWnKYL+gZLSA==",
   "success": true,
   "projectFilePath": "C:\\Users\\svdsk25\\Desktop\\Training_demos\\FirstWbAPI\\FirstWbAPI\\FirstWbAPI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\svdsk25\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.22\\microsoft.aspnetcore.jsonpatch.3.1.22.nupkg.sha512",
+    "C:\\Users\\svdsk25\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.22\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.22.nupkg.sha512",
+    "C:\\Users\\svdsk25\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\svdsk25\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\svdsk25\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

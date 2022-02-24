@@ -19,3 +19,8 @@ C:\Users\svdsk25\Desktop\Training_demos\FirstWbAPI\FirstWbAPI\obj\Debug\netcorea
 C:\Users\svdsk25\Desktop\Training_demos\FirstWbAPI\FirstWbAPI\obj\Debug\netcoreapp3.1\FirstWbAPI.dll
 C:\Users\svdsk25\Desktop\Training_demos\FirstWbAPI\FirstWbAPI\obj\Debug\netcoreapp3.1\FirstWbAPI.pdb
 C:\Users\svdsk25\Desktop\Training_demos\FirstWbAPI\FirstWbAPI\obj\Debug\netcoreapp3.1\FirstWbAPI.genruntimeconfig.cache
+C:\Users\svdsk25\Desktop\Training_demos\FirstWbAPI\FirstWbAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\svdsk25\Desktop\Training_demos\FirstWbAPI\FirstWbAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\svdsk25\Desktop\Training_demos\FirstWbAPI\FirstWbAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\svdsk25\Desktop\Training_demos\FirstWbAPI\FirstWbAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\svdsk25\Desktop\Training_demos\FirstWbAPI\FirstWbAPI\obj\Debug\netcoreapp3.1\FirstWbAPI.csproj.CopyComplete
