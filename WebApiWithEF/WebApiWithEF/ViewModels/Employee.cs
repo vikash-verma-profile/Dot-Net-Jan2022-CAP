@@ -7,7 +7,6 @@ namespace WebApiWithEF.ViewModels
 {
     public class Employee
     {
-        public string EmployeeId { get; set; }
         public string EmployeeName { get; set; }
         public int Age { get; set; }
         public int Salary { get; set; }

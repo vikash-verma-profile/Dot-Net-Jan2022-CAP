@@ -6,7 +6,6 @@ C:\Users\svdsk25\Desktop\Training_demos\WebApiWithEF\WebApiWithEF\bin\Debug\netc
 C:\Users\svdsk25\Desktop\Training_demos\WebApiWithEF\WebApiWithEF\bin\Debug\netcoreapp3.1\WebApiWithEF.runtimeconfig.dev.json
 C:\Users\svdsk25\Desktop\Training_demos\WebApiWithEF\WebApiWithEF\bin\Debug\netcoreapp3.1\WebApiWithEF.dll
 C:\Users\svdsk25\Desktop\Training_demos\WebApiWithEF\WebApiWithEF\bin\Debug\netcoreapp3.1\WebApiWithEF.pdb
-C:\Users\svdsk25\Desktop\Training_demos\WebApiWithEF\WebApiWithEF\obj\Debug\netcoreapp3.1\WebApiWithEF.csproj.AssemblyReference.cache
 C:\Users\svdsk25\Desktop\Training_demos\WebApiWithEF\WebApiWithEF\obj\Debug\netcoreapp3.1\WebApiWithEF.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\svdsk25\Desktop\Training_demos\WebApiWithEF\WebApiWithEF\obj\Debug\netcoreapp3.1\WebApiWithEF.AssemblyInfoInputs.cache
 C:\Users\svdsk25\Desktop\Training_demos\WebApiWithEF\WebApiWithEF\obj\Debug\netcoreapp3.1\WebApiWithEF.AssemblyInfo.cs
