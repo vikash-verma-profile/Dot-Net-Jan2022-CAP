@@ -61,3 +61,15 @@ C:\Users\svdsk25\Desktop\Training_demos\WebApiWithEF\WebApiWithEF\bin\Debug\netc
 C:\Users\svdsk25\Desktop\Training_demos\WebApiWithEF\WebApiWithEF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\svdsk25\Desktop\Training_demos\WebApiWithEF\WebApiWithEF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\svdsk25\Desktop\Training_demos\WebApiWithEF\WebApiWithEF\obj\Debug\netcoreapp3.1\WebApiWithEF.csproj.CopyComplete
+C:\Users\svdsk25\Desktop\Training_demos\WebApiWithEF\WebApiWithEF\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\svdsk25\Desktop\Training_demos\WebApiWithEF\WebApiWithEF\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\svdsk25\Desktop\Training_demos\WebApiWithEF\WebApiWithEF\bin\Debug\netcoreapp3.1\System.Web.Http.WebHost.dll
+C:\Users\svdsk25\Desktop\Training_demos\WebApiWithEF\WebApiWithEF\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\svdsk25\Desktop\Training_demos\WebApiWithEF\WebApiWithEF\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\svdsk25\Desktop\Training_demos\WebApiWithEF\WebApiWithEF\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\svdsk25\Desktop\Training_demos\WebApiWithEF\WebApiWithEF\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\svdsk25\Desktop\Training_demos\WebApiWithEF\WebApiWithEF\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\svdsk25\Desktop\Training_demos\WebApiWithEF\WebApiWithEF\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+C:\Users\svdsk25\Desktop\Training_demos\WebApiWithEF\WebApiWithEF\bin\Debug\netcoreapp3.1\WebActivatorEx.dll
+C:\Users\svdsk25\Desktop\Training_demos\WebApiWithEF\WebApiWithEF\obj\Debug\netcoreapp3.1\WebApiWithEF.csproj.AssemblyReference.cache
+C:\Users\svdsk25\Desktop\Training_demos\WebApiWithEF\WebApiWithEF\obj\Debug\netcoreapp3.1\WebApiWithEF.MvcApplicationPartsAssemblyInfo.cs
