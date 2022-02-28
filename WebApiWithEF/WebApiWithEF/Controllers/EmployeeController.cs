@@ -33,12 +33,19 @@ namespace WebApiWithEF.Controllers
         [Route("save-employee")]
         public void SaveEmployee([FromForm]Employee employee)
         {
+
+            //creating employee
             var employeeData = new TblEmployee();
             
-            employeeData.EmployeeName = employee.EmployeeName;
+            employeeData.FirstName = employee.FirstName;
+            employeeData.LastName = employee.LastName;
+            employeeData.EmailId= employee.EmailID;
+            employeeData.AlternateEmailId = employee.AlternateEmailId;
             employeeData.Gender = (employee.Gender.ToLower()=="male")?1:0;
             employeeData.Age = employee.Age;
             employeeData.Salary = employee.Salary;
+            employeeData.Dob = employee.DOB;
+            employeeData.DateOfJoining = employee.DOJ;
             employeeData.CreatedOn = DateTime.Now;
             employeeData.UpdatedOn= DateTime.Now;
             employeeData.IsDeleted = 0;
@@ -47,6 +54,19 @@ namespace WebApiWithEF.Controllers
             employeeData.EmployeeId = "CAP" + employeeData.Id;
             employeeData.CreatedBy = employeeData.Id;
             employeeData.UpdatedBy = employeeData.Id;
+            _hrmscontext.SaveChanges();
+
+            //creating user login
+            var UserLogin = new TblLogin();
+            UserLogin.CreatedOn = DateTime.Now;
+            UserLogin.IsDeleted = 0;
+            UserLogin.UpdatedOn =DateTime.Now;
+            UserLogin.UserName = employee.EmailID;
+            UserLogin.Password = employee.DOB.ToString("ddMMyyyy");
+            _hrmscontext.TblLogins.Add(UserLogin);
+            _hrmscontext.SaveChanges();
+            employeeData.CreatedBy = UserLogin.Id;
+            employeeData.UpdatedBy = UserLogin.Id;
             _hrmscontext.SaveChanges();
         }
 

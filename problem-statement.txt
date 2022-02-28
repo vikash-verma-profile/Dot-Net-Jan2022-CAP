@@ -19,13 +19,13 @@
 	--AlternativeEmailID
 3.We will have departmentTable
 	--ID identity(1,1)
-	--DepartmentID
+	--DepartmentName
 	--Createdby
 	--CreatedOn
 	--UpdatedBy
 	--UpdatedOn
 	--IsDeleted
-4.We will have one BandTable
+4.We will have one SalaryBandTable
 	--ID identity(1,1)
 	--BandName
 	--BandStartRange  for eg E1-2lakh pa to 6lpa,e2.
