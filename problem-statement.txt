@@ -1,0 +1,56 @@
+1.Create HRMS system
+2.you will be having employee 
+	--ID identity(1,1)
+	--Employee id -CMP+ID =CMP1
+	--age
+	--gender 1-Male,2-Female,3-Other
+	--EmployeeBand
+	--FirstName
+	--LastName
+	--DateofBirth
+	--DateoFJoining
+	--Salary
+	--Createdby
+	--CreatedOn
+	--UpdatedBy
+	--UpdatedOn
+	--IsDeleted
+	--EmailID
+	--AlternativeEmailID
+3.We will have departmentTable
+	--ID identity(1,1)
+	--DepartmentID
+	--Createdby
+	--CreatedOn
+	--UpdatedBy
+	--UpdatedOn
+	--IsDeleted
+4.We will have one BandTable
+	--ID identity(1,1)
+	--BandName
+	--BandStartRange  for eg E1-2lakh pa to 6lpa,e2.
+	--BandEndRange
+	--Createdby
+	--CreatedOn
+	--UpdatedBy
+	--UpdatedOn
+	--IsDeleted
+5.Create Login table
+	--ID identity(1,1)
+	--Username
+	--Password
+	--Createdby
+	--CreatedOn
+	--UpdatedBy
+	--UpdatedOn
+	--IsDeleted
+
+
+create Api to get all employees
+create api for login authentication username and password i will able to get response for login
+create api for employee addition his/her login should be automaticly created with password as there dateofbirth like 12/09/1992--12091992
+create api for department addition
+create api for band addition
+
+
+	
