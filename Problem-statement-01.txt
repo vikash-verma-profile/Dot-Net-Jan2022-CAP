@@ -1,0 +1,12 @@
+We are an e-commerce company
+
+1.create a database so that we can handle products of the company
+2.create api to get the products and to add product in the table
+3.create product according to the category 
+
+
+Hints
+--create database
+--create product table
+--create category table only 2 level herarchy  Mens' wear=>T shirts Pants 
+--product will have sizes so you have manage that also and color

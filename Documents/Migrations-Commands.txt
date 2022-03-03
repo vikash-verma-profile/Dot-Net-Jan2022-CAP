@@ -6,3 +6,5 @@ update-database
 
 
 Scaffold-DbContext "Server=.\SQLEXPRESS;Database=HRMS;Trusted_Connection=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Force
+
+Scaffold-DbContext "Server=.\SQLEXPRESS;Database=EcommerceDb;Trusted_Connection=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Force
