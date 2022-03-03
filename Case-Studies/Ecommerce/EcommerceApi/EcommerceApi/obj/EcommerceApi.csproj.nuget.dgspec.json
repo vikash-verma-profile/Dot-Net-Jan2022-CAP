@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\svdsk25\\Desktop\\Training_demos\\EcommerceApi\\EcommerceApi\\EcommerceApi.csproj": {}
+    "C:\\Users\\svdsk25\\Desktop\\Training_demos\\Case-Studies\\Ecommerce\\EcommerceApi\\EcommerceApi\\EcommerceApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\svdsk25\\Desktop\\Training_demos\\EcommerceApi\\EcommerceApi\\EcommerceApi.csproj": {
+    "C:\\Users\\svdsk25\\Desktop\\Training_demos\\Case-Studies\\Ecommerce\\EcommerceApi\\EcommerceApi\\EcommerceApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\svdsk25\\Desktop\\Training_demos\\EcommerceApi\\EcommerceApi\\EcommerceApi.csproj",
+        "projectUniqueName": "C:\\Users\\svdsk25\\Desktop\\Training_demos\\Case-Studies\\Ecommerce\\EcommerceApi\\EcommerceApi\\EcommerceApi.csproj",
         "projectName": "EcommerceApi",
-        "projectPath": "C:\\Users\\svdsk25\\Desktop\\Training_demos\\EcommerceApi\\EcommerceApi\\EcommerceApi.csproj",
+        "projectPath": "C:\\Users\\svdsk25\\Desktop\\Training_demos\\Case-Studies\\Ecommerce\\EcommerceApi\\EcommerceApi\\EcommerceApi.csproj",
         "packagesPath": "C:\\Users\\svdsk25\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\svdsk25\\Desktop\\Training_demos\\EcommerceApi\\EcommerceApi\\obj\\",
+        "outputPath": "C:\\Users\\svdsk25\\Desktop\\Training_demos\\Case-Studies\\Ecommerce\\EcommerceApi\\EcommerceApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\svdsk25\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.5, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
