@@ -18,6 +18,7 @@ namespace EcommerceApi.Controllers
         {
             _ecommerceDbContext = ecommerceDbContext;
         }
+        [HttpGet]
         public IEnumerable<Product> GetProducts()
         {
             return new List<Product>();
