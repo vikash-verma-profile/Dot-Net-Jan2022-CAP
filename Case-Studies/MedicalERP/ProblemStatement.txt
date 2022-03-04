@@ -1,0 +1,13 @@
+1.create a database
+2.create an api so that we can add the patient details
+3.create an api so that we can allocate a doctor to a patient
+4.create an api so that we can add new doctor and speciality
+5.create an api once user enter his/her slip number he will be able to get his prescription
+
+hints 
+
+create an database
+patient master
+doctor master
+paitentdoctormapping
+prescription--every time  new prescription id will be generated
